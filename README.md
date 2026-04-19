@@ -29,7 +29,7 @@ npm install   # for frontend React / Vite
 
 # 4. Set up your Gemini API credentials
 #    Create a file like .env in the project root, for example:
-#    GEMINI_API_KEY=your_api_key_here
+#    VITE_GEMINI_API_KEY=your_api_key_here
 
 # 5. Start the development server
 npm run dev
